@@ -1,2 +1,2 @@
 # studingcodes
-Repository for study's stuff 
+Repository for studies stuff 
