@@ -1,11 +1,8 @@
 Este repositório é dedicado à minha rotina de estudos.
 
 - Completos - 
-PYTHON
-
+Python
 - Estudando - 
-DJANGO;
-JAVA (Bootcamp inter)
-
+Django, Java (Bootcamp inter)
 - Começar - 
-HTML, CSS, C, HASKELL, MySQL, R, JAVASCRIPT, PHP, 
+HTML, CSS, JavaScript, PHP, MySQL, C, Haskell, Scala, Octave, Postgres, SAS, SPSS, NoSQL, Power Bi... 
